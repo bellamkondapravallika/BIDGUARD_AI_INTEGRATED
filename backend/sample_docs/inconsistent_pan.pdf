@@ -1,0 +1,10 @@
+[MOCK VERIFIED DOCUMENT - RED FLAG DEMO]
+Document Type: PERMANENT ACCOUNT NUMBER (PAN)
+Bidder Profile: Intentionally Inconsistent Bidder (IB)
+Legal Name: BidGuard Technologies Ltd
+PAN Number: AABCU9603 [RED FLAG: Missing 10th character - Invalid Format]
+State Code: XX [RED FLAG: Invalid State Code]
+Status: INVALID / INOPERATIVE
+Issue Date: 2026-08-01 [RED FLAG: Created within last 30 days]
+Issuer: Unknown / Unverified Portal
+Confidence Score: 62.0%

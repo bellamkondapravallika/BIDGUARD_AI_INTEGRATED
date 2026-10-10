@@ -1,0 +1,2 @@
+import { RefreshCw } from 'lucide-react'
+export default function ErrorState({ onRetry }) { return <div className="flex min-h-[280px] flex-col items-center justify-center gap-3 text-center"><p className="font-semibold text-slate-800">Something went wrong</p><p className="text-sm text-slate-500">We could not load this secure workspace view.</p><button onClick={onRetry} className="btn-secondary"><RefreshCw size={15} /> Retry</button></div> }

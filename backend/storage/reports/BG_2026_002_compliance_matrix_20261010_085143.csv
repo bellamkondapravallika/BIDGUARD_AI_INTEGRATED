@@ -1,0 +1,7 @@
+Clause ID,Requirement,Category,Mandatory,Status,Confidence,Evidence,Document,Reason,Action
+CL-01,OEM Authorization Certificate,OEM / Authorization,Yes,REVIEW,80%,Authorization document uploaded but specific model series is ambiguous.,OEM_Authorization.pdf,Submitted authorization does not unambiguously reference the specific tendered models.,Verify model schedule with OEM registry.
+CL-02,Technical Parameters & Compliance Sheet,Technical,Yes,FAIL,90%,Technical compliance statement sheet missing.,N/A,Item-by-item technical compliance sheet is mandatory.,Require submission of signed technical data sheet.
+CL-03,Statutory GST & PAN Registration,Legal & Statutory,Yes,FAIL,94%,Missing statutory registration certificate.,N/A,Valid GSTIN / PAN registration certificate is mandatory.,Request GST registration certificate and PAN card copy.
+CL-04,Financial Turnover Capability,Financial,Yes,FAIL,92%,No audited turnover certificate or CA statement provided.,N/A,"Tender requires minimum annual turnover of ₹5,000,000.",Obtain CA-certified turnover statement with UDIN.
+CL-05,Past Performance & Experience,Experience,No,REVIEW,82%,No separate past performance completion certificate found.,N/A,Client performance certificate required for projects of comparable scale.,Request minimum two satisfactory client completion certificates.
+CL-06,Non-Blacklisting Undertaking,Statutory,Yes,REVIEW,78%,Declaration not identified in uploaded files.,N/A,Evidence is ambiguous or requires specific tender declaration.,Obtain signed undertaking from authorized signatory.
