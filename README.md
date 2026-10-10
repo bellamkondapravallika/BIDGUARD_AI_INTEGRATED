@@ -205,3 +205,4 @@ pytest -v
 ```
 
 All tests execute in isolated environments with zero test pollution.
+# BIDGUARD_AI_INTEGRATED
